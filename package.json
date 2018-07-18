@@ -1,0 +1,22 @@
+{
+  "name": "javascriptlearn",
+  "version": "1.0.0",
+  "description": "JavaScript 学习记录项目",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingKui/JavaScriptLearn.git"
+  },
+  "author": "康兵奎",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BingKui/JavaScriptLearn/issues"
+  },
+  "homepage": "https://github.com/BingKui/JavaScriptLearn#readme",
+  "dependencies": {
+    "three": "^0.94.0"
+  }
+}
